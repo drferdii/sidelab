@@ -30,6 +30,8 @@ SideLab is the free Mini edition of Sentra's larger Clinical Decision Support Sy
 SideLab helps frontline physicians reason more consistently, detect red flags earlier, retrieve local clinical references, and produce structured clinical decision-support output — while preserving physician responsibility as the final clinical authority.
 
 <p>
+  <img src="https://img.shields.io/badge/version-0.1.0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
   <img src="https://img.shields.io/badge/status-research_prototype-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/edition-mini_free-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/offline_first-yes-brightgreen?style=flat-square" />
