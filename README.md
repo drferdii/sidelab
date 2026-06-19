@@ -566,9 +566,7 @@ When present, read these governance files before making non-trivial changes:
 <br />
 
 <p align="center">
-  <b>Sentra SideLab — Clinical AI Division</b><br />
-  <sub>Offline-first clinical decision support research for Indonesian primary care.</sub><br /><br />
-  <b>SideLab assists physicians. It does not replace them.</b><br />
-  <sub>Clinical responsibility always remains with the licensed physician.</sub><br /><br />
+  <b>From Indonesia, for a more equitable world of healthcare.</b><br />
+  <sub>Offline. Trusted. Sovereign.</sub><br /><br />
   <a href="https://ferdiiskandar.com">ferdiiskandar.com</a>
 </p>
