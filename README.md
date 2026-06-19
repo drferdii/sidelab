@@ -563,10 +563,12 @@ When present, read these governance files before making non-trivial changes:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br />
+
+---
 
 <p align="center">
-  <b>From Indonesia, for a more equitable world of healthcare.</b><br />
+  ❤️ for Alde, Aimee, Audrey &amp; Del<br /><br />
+  From Indonesia, for a more equitable world of healthcare.<br />
   <sub>Offline. Trusted. Sovereign.</sub><br /><br />
   <a href="https://ferdiiskandar.com">ferdiiskandar.com</a>
 </p>
