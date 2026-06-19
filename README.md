@@ -50,7 +50,7 @@ SideLab helps frontline physicians reason more consistently, detect red flags ea
 ## Live Terminal Motion Preview
 
 <p align="center">
-  <img src=".github/sidelab-terminal-demo.gif" alt="SideLab terminal motion demo" width="920" />
+  <img src="https://i.postimg.cc/q7jCn131/terminal.png" alt="SideLab terminal preview" width="920" />
 </p>
 
 <p align="center">
